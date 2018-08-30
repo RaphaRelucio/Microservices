@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 import random.Dice;
-
+//hello
 public class DB {
 
 	private String url = "jdbc:mysql://localhost:3306/country?autoReconnect=true&useSSL=false";
